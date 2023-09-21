@@ -5,7 +5,7 @@
   "dependencies": {
     "@redwoodjs/api": "1.0.0",
     "@redwoodjs/graphql-server": "1.0.0",
-    "graphql-scalars": "1.17.0",
+    "graphql-scalars": "1.22.2",
     "stripe": "8.215.0"
   }
 }
