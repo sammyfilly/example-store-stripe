@@ -18,7 +18,7 @@
     "@redwoodjs/router": "1.5.2",
     "@redwoodjs/web": "1.5.2",
     "@stripe/stripe-js": "1.54.2",
-    "@xstate/immer": "0.3.1",
+    "@xstate/immer": "0.3.3",
     "@xstate/react": "2.0.1",
     "immer": "9.0.21",
     "open-props": "1.5.16",
@@ -27,6 +27,6 @@
     "react-dom": "17.0.2",
     "react-feather": "2.0.10",
     "styled-components": "5.3.11",
-    "xstate": "4.30.6"
+    "xstate": "4.38.3"
   }
 }

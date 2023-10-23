@@ -7016,13 +7016,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@xstate/immer@npm:0.3.1":
-  version: 0.3.1
-  resolution: "@xstate/immer@npm:0.3.1"
+"@xstate/immer@npm:0.3.3":
+  version: 0.3.3
+  resolution: "@xstate/immer@npm:0.3.3"
   peerDependencies:
-    immer: ^9.0.6
-    xstate: ^4.29.0
-  checksum: 7ddad771fcc1e1f045131c1fc5060d2151d295ee0b5513d3ea270967f341d7a17da2f888a93e708c9733edbaeb2745c49891a22e71da225a0e10ada16e281487
+    immer: ^9.0.6 || ^10
+    xstate: ^4.37.2
+  checksum: fdc03683da3c002aec12eeb25c902fd3e89af6931fc853242a4693bb20dfe5870ef929cf49d24055395534ca4479e921cf5ba565de5bb286059692b75861ab4f
   languageName: node
   linkType: hard
 
@@ -24316,7 +24316,7 @@ __metadata:
     "@redwoodjs/router": 1.5.2
     "@redwoodjs/web": 1.5.2
     "@stripe/stripe-js": 1.54.2
-    "@xstate/immer": 0.3.1
+    "@xstate/immer": 0.3.3
     "@xstate/react": 2.0.1
     immer: 9.0.21
     open-props: 1.5.16
@@ -24325,7 +24325,7 @@ __metadata:
     react-dom: 17.0.2
     react-feather: 2.0.10
     styled-components: 5.3.11
-    xstate: 4.30.6
+    xstate: 4.38.3
   languageName: unknown
   linkType: soft
 
@@ -25046,10 +25046,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"xstate@npm:4.30.6":
-  version: 4.30.6
-  resolution: "xstate@npm:4.30.6"
-  checksum: 47b1479012b79541aa4f687dd7b73b0c1780144e225345cf242746714d6a25e1efb1eda3975197d21b528e47bcafbad1ae31d10e52a76a9f2e59f6e8387a1d6a
+"xstate@npm:4.38.3":
+  version: 4.38.3
+  resolution: "xstate@npm:4.38.3"
+  checksum: 8a2063743517390107275113bca0e757dba99102e7d57d40cf656b5cc03a6f2c5e10fbf3752294d9d29fbe1d8757bb9a54f54c934a22f205a237956dd10dcd0f
   languageName: node
   linkType: hard
 
